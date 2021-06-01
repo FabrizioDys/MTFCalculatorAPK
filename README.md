@@ -14,3 +14,7 @@ The application is aimed at a heterogeneous audience, given its easy use and the
 Operating Systems and Devices
 
 The application is available on Android operating systems and is optimized for Android 9.0.
+
+Presentation Video:
+
+https://www.youtube.com/watch?v=xKNRdALZ2KY
